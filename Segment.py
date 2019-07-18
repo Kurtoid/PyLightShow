@@ -1,7 +1,3 @@
-import board
-import neopixel
-import numpy as np
-
 class Segment():
     def getLights(self):
         pass
